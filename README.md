@@ -1,59 +1,55 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/yousephfatou7">Youseph Fatouh</a></h2>
+<h2>Youseph Fatouh</h2>
 <p>
-I'm a <strong>SOC Analyst</strong> and Defensive Security enthusiast based in 🇪🇬 Egypt.  
-Currently focused on <strong>Threat Detection, Incident Response, and Threat Intelligence</strong>.  
-Building SOC labs, analyzing logs, and strengthening blue team operations.
+SOC Analyst focused on detection engineering, threat intelligence integration, and incident response operations.
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/yousephfatou7">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yousephfatouh@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/yousephfatouh">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=github&logoColor=white" />
+<a href="mailto:eng.youseffatouh@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
 
-<p>🛡️ Blue Team Mindset | 🔎 Intelligence-Driven Detection | ⚡ SOC Operations</p>
+<img align="right" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="240"/>
 
-<img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/>
+<h3>Security Philosophy</h3>
 
-<h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 Currently building and improving SOC lab environments.</li>
-<li>🧠 Learning more about <strong>Threat Intelligence</strong>, <strong>DFIR</strong>, and <strong>MITRE ATT&CK</strong>.</li>
-<li>🛡️ Working with SIEM tools and analyzing security logs daily.</li>
-<li>🧪 Simulating attack scenarios to improve detection and response accuracy.</li>
-<li>📙 Pursuing BTech in Computer Network Technology (2022–2026).</li>
-<li>🎯 Goal: Become a high-level defensive security specialist.</li>
+<li>Detection must be contextual, not reactive.</li>
+<li>Logs are narratives — not noise.</li>
+<li>Intelligence without operational integration has no value.</li>
+<li>Defense is discipline.</li>
 </ul>
 
-<h2>✒️ Security Projects</h2>
-<details>
-    <summary>Explore</summary>
-    <li>SOC Simulation & Threat Monitoring Lab – Built a simulated SOC environment for alert triage and incident investigation.</li>
-    <li>Network Security Implementation Lab – Implemented VLAN segmentation, firewall policies, and IDS monitoring.</li>
-    <li>Smart University Network – Graduation project focused on secure campus network architecture.</li>
-</details>
+<h3>Focus Areas</h3>
 
-<h2>🚀 Tools & Technologies</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/>
-</p>
+<ul>
+<li>Security Monitoring & Alert Triage</li>
+<li>Threat Intelligence → Detection Alignment</li>
+<li>Incident Analysis & Escalation</li>
+<li>MITRE ATT&CK Mapping</li>
+<li>Network Security & Segmentation</li>
+</ul>
+
+<h3>Operational Stack</h3>
 
 <p>
-<strong>Security Stack:</strong><br>
-SIEM (ELK, Splunk, Wazuh) | Sysmon | Suricata | Snort | Wireshark | Nmap | FortiGate | MITRE ATT&CK | IOC Analysis
+SIEM (ELK · Splunk · Wazuh)<br>
+Sysmon · Suricata · Snort<br>
+FortiGate · Wireshark · Nmap<br>
+Windows & Linux Log Analysis
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yousephfatouh&show_icons=true&count_private=true&theme=dark" />
+<h3>Active Work</h3>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=yousephfatouh&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+<ul>
+<li>Building and refining SOC lab environments</li>
+<li>Improving detection accuracy through intelligence correlation</li>
+<li>Simulating adversary behavior to strengthen defensive visibility</li>
+</ul>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yousephfatouh&show_icons=true&hide_title=true&theme=dark" />
