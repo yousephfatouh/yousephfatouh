@@ -1,64 +1,45 @@
-<h1 align="center">Hi 👋, I'm Youseph Fatouh</h1>
-<h3 align="center">SOC Analyst | Threat Detection & Incident Response | Defensive Security</h3>
-
-<p align="center">
-🇪🇬 Egypt | 🛡️ Blue Team | 🔎 Threat Intelligence | 🧠 DFIR
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/yousephfatou7">Youseph Fatouh</a></h2>
+<p>
+I'm a <strong>SOC Analyst</strong> and Defensive Security enthusiast based in 🇪🇬 Egypt.  
+Currently focused on <strong>Threat Detection, Incident Response, and Threat Intelligence</strong>.  
+Building SOC labs, analyzing logs, and strengthening blue team operations.
 </p>
 
----
+<p>
+<a href="https://www.linkedin.com/in/yousephfatou7">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="mailto:yousephfatouh@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yousephfatouh">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=github&logoColor=white" />
+</a>
+</p>
 
-## 🧠 About Me
+<p>🛡️ Blue Team Mindset | 🔎 Intelligence-Driven Detection | ⚡ SOC Operations</p>
 
-I am a SOC Analyst focused on defensive security operations, threat detection, and incident response.  
-I work on building and operating SOC lab environments to simulate real-world enterprise security scenarios.
+<img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/>
 
-My interests include:
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 Currently building and improving SOC lab environments.</li>
+<li>🧠 Learning more about <strong>Threat Intelligence</strong>, <strong>DFIR</strong>, and <strong>MITRE ATT&CK</strong>.</li>
+<li>🛡️ Working with SIEM tools and analyzing security logs daily.</li>
+<li>🧪 Simulating attack scenarios to improve detection and response accuracy.</li>
+<li>📙 Pursuing BTech in Computer Network Technology (2022–2026).</li>
+<li>🎯 Goal: Become a high-level defensive security specialist.</li>
+</ul>
 
-- Threat Intelligence (IOC Analysis, MITRE ATT&CK)
-- Security Monitoring & Alert Triage
-- Incident Handling & Root Cause Analysis
-- Network Security & Firewall Technologies
-- SIEM & Log Analysis
+<h2>✒️ Security Projects</h2>
+<details>
+    <summary>Explore</summary>
+    <li>SOC Simulation & Threat Monitoring Lab – Built a simulated SOC environment for alert triage and incident investigation.</li>
+    <li>Network Security Implementation Lab – Implemented VLAN segmentation, firewall policies, and IDS monitoring.</li>
+    <li>Smart University Network – Graduation project focused on secure campus network architecture.</li>
+</details>
 
-Currently pursuing a BTech in Computer Network Technology and continuously building hands-on security labs.
-
----
-
-## 🛡️ Security Focus Areas
-
-- SOC Monitoring & Alert Investigation
-- SIEM (ELK, Splunk, Wazuh)
-- Threat Intelligence Integration
-- Incident Response (NIST-aligned workflows)
-- Log Analysis (Windows & Linux)
-- Firewall & Network Security (FortiGate, ACLs, VLANs)
-- IDS/IPS (Suricata, Snort)
-- Packet Analysis (Wireshark)
-
----
-
-## 🧪 Featured Labs & Projects
-
-### 🔹 SOC Simulation & Threat Monitoring Lab
-- Built a simulated SOC environment
-- Performed alert triage & incident investigation
-- Correlated alerts with threat intelligence indicators
-- Mapped attacker techniques to MITRE ATT&CK
-
-### 🔹 Network Security Implementation Lab
-- Implemented VLAN segmentation & firewall policies
-- Monitored and analyzed security logs
-- Tested detection logic using simulated attack scenarios
-
-### 🔹 Smart University Network (Graduation Project)
-- Designed and secured a scalable campus network
-- Applied segmentation & access control
-- Integrated security-by-design principles
-
----
-
-## ⚙️ Tools & Technologies
-
+<h2>🚀 Tools & Technologies</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="25"/>
@@ -66,24 +47,13 @@ Currently pursuing a BTech in Computer Network Technology and continuously build
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/>
 </p>
 
-**Security Tools:**  
-ELK | Splunk | Wazuh | Sysmon | Suricata | Snort | Wireshark | Nmap | FortiGate  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousephfatouh&show_icons=true&theme=dark" />
+<p>
+<strong>Security Stack:</strong><br>
+SIEM (ELK, Splunk, Wazuh) | Sysmon | Suricata | Snort | Wireshark | Nmap | FortiGate | MITRE ATT&CK | IOC Analysis
 </p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=yousephfatouh&show_icons=true&count_private=true&theme=dark" />
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/yousephfatou7
-- 📧 Email: yousephfatouh@gmail.com
-
----
-
-> "Detection is good. Prevention is better. Understanding the attacker is powerful."
+<p>
+<img src="https://komarev.com/ghpvc/?username=yousephfatouh&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
